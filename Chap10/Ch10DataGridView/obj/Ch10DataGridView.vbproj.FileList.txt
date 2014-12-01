@@ -1,0 +1,13 @@
+bin\Debug\Ch10DataGridView.exe.config
+obj\Debug\Ch10DataGridView.exe
+obj\Debug\Ch10DataGridView.xml
+obj\Debug\Ch10DataGridView.pdb
+bin\Debug\RnrBooks.mdf
+bin\Debug\RnrBooks_log.ldf
+bin\Debug\Ch10DataGridView.exe
+bin\Debug\Ch10DataGridView.pdb
+bin\Debug\Ch10DataGridView.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ch10DataGridView.BooksForm.resources
+obj\Debug\Ch10DataGridView.Resources.resources
+obj\Debug\Ch10DataGridView.vbproj.GenerateResource.Cache

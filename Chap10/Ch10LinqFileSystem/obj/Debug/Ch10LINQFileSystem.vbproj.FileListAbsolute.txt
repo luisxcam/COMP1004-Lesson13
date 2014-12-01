@@ -1,0 +1,40 @@
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.exe
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.pdb
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.xml
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.FileSystemForm.resources
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.Resources.resources
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.vbproj.GenerateResource.Cache
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.exe
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.xml
+C:\Users\Anita\AppData\Local\Temporary Projects\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.pdb
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.exe
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.xml
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.pdb
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.exe
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.pdb
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\bin\Debug\Ch10LINQFileSystem.xml
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.FileSystemForm.resources
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.Resources.resources
+C:\Users\Anita\Documents\VB 2008\Ch10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.exe
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.xml
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LINQFileSystem.pdb
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\bin\Debug\Ch10LinqFileSystem.exe
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\bin\Debug\Ch10LinqFileSystem.pdb
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\bin\Debug\Ch10LinqFileSystem.xml
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LinqFileSystem.FileSystemForm.resources
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LinqFileSystem.Resources.resources
+C:\Users\Public\Documents\InChapterProgs\Chap10\Ch10LINQFileSystem\obj\Debug\Ch10LinqFileSystem.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\bin\Debug\Ch10LinqFileSystem.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\bin\Debug\Ch10LinqFileSystem.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\bin\Debug\Ch10LinqFileSystem.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.FileSystemForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqFileSystem\obj\Debug\Ch10LinqFileSystem.vbproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+bin\Debug\Ch10HandsOn.exe.config
+obj\Debug\Ch10HandsOn.exe
+obj\Debug\Ch10HandsOn.xml
+obj\Debug\Ch10HandsOn.pdb
+bin\Debug\RnrBooks.mdf
+bin\Debug\RnrBooks_log.ldf
+bin\Debug\Ch10HandsOn.exe
+bin\Debug\Ch10HandsOn.pdb
+bin\Debug\Ch10HandsOn.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ch10HandsOn.TitleSelectionForm.resources
+obj\Debug\Ch10HandsOn.Resources.resources
+obj\Debug\Ch10HandsOn.vbproj.GenerateResource.Cache

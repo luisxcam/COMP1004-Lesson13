@@ -1,0 +1,10 @@
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.LinqQueryForm.resources
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\Judy\Documents\Visual Studio 2008\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.pdb

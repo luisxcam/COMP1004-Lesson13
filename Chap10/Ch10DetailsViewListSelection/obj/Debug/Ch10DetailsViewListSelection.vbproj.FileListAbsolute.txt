@@ -1,0 +1,24 @@
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\bin\Debug\RnrBooks.mdf
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\bin\Debug\RnrBooks_log.ldf
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.exe
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.pdb
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.xml
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsView.DetailsForm.resources
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsView.Resources.resources
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.vbproj.GenerateResource.Cache
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.exe
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.xml
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Debug\RnrBooks.mdf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Debug\RnrBooks_log.ldf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Debug\Ch10DetailsViewListSelection.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsView.DetailsForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsView.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Debug\Ch10DetailsViewListSelection.vbproj.GenerateResource.Cache

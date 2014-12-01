@@ -1,0 +1,19 @@
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsViewListSelection\bin\Release\Ch10DetailsViewListSelection.exe.config
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.pdb
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.exe
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.xml
+C:\Users\Anita\Desktop\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Release\RnrBooks.mdf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Release\RnrBooks_log.ldf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Release\Ch10DetailsViewListSelection.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Release\Ch10DetailsViewListSelection.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\bin\Release\Ch10DetailsViewListSelection.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsView.DetailsForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsView.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsViewListSelection\obj\Release\Ch10DetailsViewListSelection.pdb

@@ -1,0 +1,12 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Release\RnrBooks.mdf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Release\RnrBooks_log.ldf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Release\Ch10DetailsView.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Release\Ch10DetailsView.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Release\Ch10DetailsView.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.DetailsForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Release\Ch10DetailsView.pdb

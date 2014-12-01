@@ -1,0 +1,16 @@
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsView\bin\Debug\Ch10DetailsView.exe.config
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Debug\RnrBooks.mdf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Debug\RnrBooks_log.ldf
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Debug\Ch10DetailsView.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Debug\Ch10DetailsView.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\bin\Debug\Ch10DetailsView.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.DetailsForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10DetailsView\obj\Debug\Ch10DetailsView.vbproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.pdb
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\bin\Debug\RnrBooks.mdf
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\bin\Debug\RnrBooks_log.ldf
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.pdb
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.TitleSelectionForm.resources
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.Resources.resources
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap10\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.vbproj.GenerateResource.Cache
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.exe
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.xml
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.pdb
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\bin\Debug\RnrBooks.mdf
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\bin\Debug\RnrBooks_log.ldf
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.exe
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.pdb
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\bin\Debug\Ch10HandsOn.xml
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.TitleSelectionForm.resources
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.Resources.resources
+C:\Users\Anita\Desktop\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10HandsOn\obj\Debug\Ch10HandsOn.pdb

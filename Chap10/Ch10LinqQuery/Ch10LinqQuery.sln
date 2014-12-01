@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ch10LinqQuery", "Ch10LinqQuery.vbproj", "{000DF9A7-B77F-4A1A-8AB2-7B44F9EA07FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000DF9A7-B77F-4A1A-8AB2-7B44F9EA07FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000DF9A7-B77F-4A1A-8AB2-7B44F9EA07FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000DF9A7-B77F-4A1A-8AB2-7B44F9EA07FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000DF9A7-B77F-4A1A-8AB2-7B44F9EA07FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

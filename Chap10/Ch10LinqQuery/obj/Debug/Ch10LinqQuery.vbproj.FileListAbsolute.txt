@@ -1,0 +1,10 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\bin\Debug\Ch10LinqQuery.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\bin\Debug\Ch10LinqQuery.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\bin\Debug\Ch10LinqQuery.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.LinqQueryForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap10\Ch10LinqQuery\obj\Debug\Ch10LinqQuery.pdb
